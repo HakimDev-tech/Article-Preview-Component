@@ -1,11 +1,9 @@
-Voici un README complet et adapté pour un projet Frontend Mentor, structuré pour GitHub et optimisé pour clarté, SEO et professionnalisme. J’ai inclus les sections classiques que la communauté Frontend Mentor attend :
-
-📄 Article Preview Component
+Article Preview Component
 
 💻 Table of Contents
 Overview
 The Challenge
-Screenshot
+Screenshots
 Links
 Built With
 Features
@@ -13,17 +11,20 @@ Author
 🏁 Overview
 
 This is a responsive Article Preview Component built as part of a Frontend Mentor challenge.
-The project focuses on clean, semantic HTML, modern CSS (mobile-first, Flexbox), and vanilla JavaScript for interactive elements.
+The project demonstrates semantic HTML, modern CSS (mobile-first, Flexbox), and vanilla JavaScript for interactive elements.
 
 🎯 The Challenge
-Build a responsive article card layout that works on mobile and desktop
-Implement an animated share menu that is accessible and easy to interact with
+Build a responsive article card layout for mobile and desktop
+Implement an animated share menu that expands the card instead of overlaying content
 Match the design provided by Frontend Mentor
-Ensure clean, maintainable code
-🖼 Screenshot
+Ensure clean and maintainable code
+🖼 Screenshots
 
-Desktop Screenshot: (./screenshots/desktop_screenshot.png)
-Mobile Screenshot: (./screenshots/mobile_screenshot.png)
+Mobile Preview:
+
+
+Desktop Preview:
+
 
 🔗 Links
 Solution URL: GitHub Repository
@@ -34,11 +35,11 @@ CSS3 (Flexbox, mobile-first, transitions)
 JavaScript (vanilla, toggle share menu)
 Google Fonts: Manrope
 ✨ Features
-Responsive layout (mobile-first)
-Animated share menu that pushes the card content without overlaying
-Accessible HTML structure (aria-label, time datetime)
+Fully responsive layout (mobile-first)
+Animated share menu integrated in card flow (pushes content down)
+Accessible HTML structure (aria-label, semantic tags, <time>)
 Smooth transitions for interactive elements
-Clean and maintainable code
+Clean, maintainable, and readable code
 👤 Author
 
 Abdel Hakim Koumad
@@ -46,6 +47,6 @@ Abdel Hakim Koumad
 GitHub: HakimDev-tech
 Frontend Mentor: Profile
 📦 Getting Started
-Clone the repository
+Clone the repository:
 git clone https://github.com/HakimDev-tech/Article-Preview-Component.git
-Open index.html in your browser
+Open index.html in your browser.
