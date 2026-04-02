@@ -13,14 +13,12 @@ Ensure clean and maintainable code
 Screenshots
 
 ### Mobile Preview:
-
-
+![Mobile](screenshots/mobile_screenshot.png)
 ### Desktop Preview:
-
-
+![Desktop](screenshots/desktop_screenshot.png)
 ## Links
-## Solution URL: GitHub Repository
-## Live Site URL: Live Demo
+## Solution URL: [GitHub Repository](https://github.com/HakimDev-tech/Article-Preview-Component)
+## Live Site URL: (https://hakimdev-tech.github.io/Article-Preview-Component/)
 ### Built With
 HTML5 & semantic elements
 CSS3 (Flexbox, mobile-first, transitions)
@@ -37,7 +35,7 @@ Clean, maintainable, and readable code
 Abdel Hakim Koumad
 
 ### GitHub: HakimDev-tech
-### Frontend Mentor: Profile
+### Frontend Mentor: @HakimDev-tech
 Getting Started
 Clone the repository:
 git clone https://github.com/HakimDev-tech/Article-Preview-Component.git
